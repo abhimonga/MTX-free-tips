@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023847059991",
+    "firebase_url": "https://mcxfreetips-7a513.firebaseio.com",
+    "project_id": "mcxfreetips-7a513",
+    "storage_bucket": "mcxfreetips-7a513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023847059991:android:934a62c78337f506",
+        "android_client_info": {
+          "package_name": "com.example.mcxfreetips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023847059991-6e28dqv3bca84quog6l7h2dbopge72ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mcxfreetips",
+            "certificate_hash": "faa5a1ff10763b274f72a580a03719f0953001e3"
+          }
+        },
+        {
+          "client_id": "1023847059991-sn4uo6r67bonqobihddd2ru82rce17u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf1-iYG21SD4EE4oVo0zEfaf853c--Nmo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023847059991-sn4uo6r67bonqobihddd2ru82rce17u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

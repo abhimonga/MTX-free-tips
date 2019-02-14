@@ -4,14 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".login">
+    tools:context=".login"
+    android:background="#23A6D5
+">
 
     <EditText
         android:id="@+id/phone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:hint="Enter your phone number" />
+        android:hint="Enter your phone number"
+        />
 
     <Button
         android:layout_width="179dp"
@@ -20,6 +23,8 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="107dp"
         android:layout_marginBottom="255dp"
+        android:id="@+id/submit"
+        android:onClick="submit"
         android:text="Submit"/>
 
 
